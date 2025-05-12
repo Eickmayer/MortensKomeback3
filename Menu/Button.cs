@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MortensKomeback3
+namespace MortensKomeback3.Menu
 {
-    public interface IObserver
+    public class Button
     {
     }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MortensKomeback3
+namespace MortensKomeback3.Command
 {
-    public interface IState <T>
+    public interface ICommand
     {
     }
 }

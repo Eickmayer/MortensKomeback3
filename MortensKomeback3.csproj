@@ -17,9 +17,7 @@
     <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.*" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Command\" />
-    <Folder Include="Observer\" />
-    <Folder Include="State\" />
+    <Folder Include="Sprites\" />
   </ItemGroup>
   <Target Name="RestoreDotnetTools" BeforeTargets="Restore">
     <Message Text="Restoring dotnet tools" Importance="High" />
