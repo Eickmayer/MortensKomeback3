@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MortensKomeback3.Menu
+namespace MortensKomeback3.Command
 {
-    class AccessInventory
+    class AccessMenuCommand
     {
     }
 }
